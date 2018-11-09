@@ -3,7 +3,7 @@
 #include <math.h>
 #include <time.h>
 
-#define N 125 // array size
+#define N 100 // array size
 #define PI 3.14159265359
 
 // f1, f2, g1, g2 - boundary conditions
